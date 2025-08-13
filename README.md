@@ -32,4 +32,4 @@ Our simulation demonstrates this end-to-end detection process with a user-friend
 - **Risk scoring system** to prioritize threats.
 - **Instant alert notifications** to the dashboard.
 
-- ##Thank you
+
